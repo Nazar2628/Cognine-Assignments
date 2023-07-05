@@ -1,0 +1,17 @@
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\bin\Debug\net7.0\SchoolProject.ViewModels.deps.json
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\bin\Debug\net7.0\SchoolProject.ViewModels.dll
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\bin\Debug\net7.0\SchoolProject.ViewModels.pdb
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\obj\Debug\net7.0\SchoolProject.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\obj\Debug\net7.0\SchoolProject.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\obj\Debug\net7.0\SchoolProject.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\obj\Debug\net7.0\SchoolProject.ViewModels.AssemblyInfo.cs
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\obj\Debug\net7.0\SchoolProject.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\obj\Debug\net7.0\SchoolProject.ViewModels.dll
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\obj\Debug\net7.0\refint\SchoolProject.ViewModels.dll
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\obj\Debug\net7.0\SchoolProject.ViewModels.pdb
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\obj\Debug\net7.0\ref\SchoolProject.ViewModels.dll
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\bin\Debug\net7.0\SchoolProject.ViewModels.runtimeconfig.json
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\obj\Debug\net7.0\SchoolProject.ViewModels.genruntimeconfig.cache
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\bin\Debug\net7.0\SchoolProject.Models.dll
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\bin\Debug\net7.0\SchoolProject.Models.pdb
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\SchoolProject.ViewModels\obj\Debug\net7.0\SchoolProject.ViewModels.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\SchoolManagementProject\StudentProject.Models\bin\Debug\net7.0\StudentProject.Models.deps.json
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\SchoolManagementProject\StudentProject.Models\bin\Debug\net7.0\StudentProject.Models.dll
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\SchoolManagementProject\StudentProject.Models\bin\Debug\net7.0\StudentProject.Models.pdb
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\SchoolManagementProject\StudentProject.Models\obj\Debug\net7.0\StudentProject.Models.csproj.AssemblyReference.cache
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\SchoolManagementProject\StudentProject.Models\obj\Debug\net7.0\StudentProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\SchoolManagementProject\StudentProject.Models\obj\Debug\net7.0\StudentProject.Models.AssemblyInfoInputs.cache
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\SchoolManagementProject\StudentProject.Models\obj\Debug\net7.0\StudentProject.Models.AssemblyInfo.cs
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\SchoolManagementProject\StudentProject.Models\obj\Debug\net7.0\StudentProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\SchoolManagementProject\StudentProject.Models\obj\Debug\net7.0\StudentProject.Models.dll
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\SchoolManagementProject\StudentProject.Models\obj\Debug\net7.0\refint\StudentProject.Models.dll
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\SchoolManagementProject\StudentProject.Models\obj\Debug\net7.0\StudentProject.Models.pdb
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\SchoolManagementProject\StudentProject.Models\obj\Debug\net7.0\ref\StudentProject.Models.dll

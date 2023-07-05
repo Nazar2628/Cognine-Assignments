@@ -1,0 +1,461 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\Student.Web\\Student.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Models\\SchoolProject.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Models\\SchoolProject.Models.csproj",
+        "projectName": "SchoolProject.Models",
+        "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Models\\SchoolProject.Models.csproj",
+        "packagesPath": "C:\\Users\\Nazar Basha Shaik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nazar Basha Shaik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "ServiceStack.Interfaces": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Services\\SchoolProject.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Services\\SchoolProject.Services.csproj",
+        "projectName": "SchoolProject.Services",
+        "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Services\\SchoolProject.Services.csproj",
+        "packagesPath": "C:\\Users\\Nazar Basha Shaik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nazar Basha Shaik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Utilities\\SchoolProject.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Utilities\\SchoolProject.Utilities.csproj"
+              },
+              "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.ViewModels\\SchoolProject.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.ViewModels\\SchoolProject.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Utilities\\SchoolProject.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Utilities\\SchoolProject.Utilities.csproj",
+        "projectName": "SchoolProject.Utilities",
+        "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Utilities\\SchoolProject.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Nazar Basha Shaik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nazar Basha Shaik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\StudentProject.Repositories\\StudentProject.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\StudentProject.Repositories\\StudentProject.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.ViewModels\\SchoolProject.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.ViewModels\\SchoolProject.ViewModels.csproj",
+        "projectName": "SchoolProject.ViewModels",
+        "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.ViewModels\\SchoolProject.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Nazar Basha Shaik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nazar Basha Shaik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Models\\SchoolProject.Models.csproj": {
+                "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Models\\SchoolProject.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\Student.Web\\Student.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\Student.Web\\Student.Web.csproj",
+        "projectName": "Student.Web",
+        "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\Student.Web\\Student.Web.csproj",
+        "packagesPath": "C:\\Users\\Nazar Basha Shaik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\Student.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nazar Basha Shaik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Models\\SchoolProject.Models.csproj": {
+                "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Models\\SchoolProject.Models.csproj"
+              },
+              "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Services\\SchoolProject.Services.csproj": {
+                "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Services\\SchoolProject.Services.csproj"
+              },
+              "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Utilities\\SchoolProject.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Utilities\\SchoolProject.Utilities.csproj"
+              },
+              "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\StudentProject.Repositories\\StudentProject.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\StudentProject.Repositories\\StudentProject.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\StudentProject.Repositories\\StudentProject.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\StudentProject.Repositories\\StudentProject.Repositories.csproj",
+        "projectName": "StudentProject.Repositories",
+        "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\StudentProject.Repositories\\StudentProject.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Nazar Basha Shaik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\StudentProject.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nazar Basha Shaik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Models\\SchoolProject.Models.csproj": {
+                "projectPath": "C:\\Users\\Nazar Basha Shaik\\Desktop\\.net core projects\\Student.Web\\SchoolProject.Models\\SchoolProject.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

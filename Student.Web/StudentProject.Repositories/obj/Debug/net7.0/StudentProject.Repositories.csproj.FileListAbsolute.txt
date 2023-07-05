@@ -1,0 +1,17 @@
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\obj\Debug\net7.0\StudentProject.Repositories.csproj.AssemblyReference.cache
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\obj\Debug\net7.0\StudentProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\obj\Debug\net7.0\StudentProject.Repositories.AssemblyInfoInputs.cache
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\obj\Debug\net7.0\StudentProject.Repositories.AssemblyInfo.cs
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\obj\Debug\net7.0\StudentProject.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\bin\Debug\net7.0\StudentProject.Repositories.deps.json
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\bin\Debug\net7.0\StudentProject.Repositories.dll
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\bin\Debug\net7.0\StudentProject.Repositories.pdb
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\bin\Debug\net7.0\SchoolProject.Models.dll
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\bin\Debug\net7.0\SchoolProject.Models.pdb
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\obj\Debug\net7.0\StudentProject.Repositories.csproj.CopyComplete
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\obj\Debug\net7.0\StudentProject.Repositories.dll
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\obj\Debug\net7.0\refint\StudentProject.Repositories.dll
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\obj\Debug\net7.0\StudentProject.Repositories.pdb
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\obj\Debug\net7.0\ref\StudentProject.Repositories.dll
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\bin\Debug\net7.0\StudentProject.Repositories.runtimeconfig.json
+C:\Users\Nazar Basha Shaik\Desktop\.net core projects\Student.Web\StudentProject.Repositories\obj\Debug\net7.0\StudentProject.Repositories.genruntimeconfig.cache
